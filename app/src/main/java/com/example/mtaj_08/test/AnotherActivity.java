@@ -25,6 +25,8 @@ public class AnotherActivity extends AppCompatActivity {
 
     private static final int DELAY = 100;
 
+    public int i=0;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
